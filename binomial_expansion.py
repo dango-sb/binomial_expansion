@@ -62,5 +62,3 @@ def expand(expr):
     return ''.join(res)
 
 
-print(expand('(-5m+3)^4'))
-
